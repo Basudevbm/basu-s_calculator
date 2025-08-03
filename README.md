@@ -1,1 +1,1 @@
-# basu-s_calculator
+# basu_s_calculator
